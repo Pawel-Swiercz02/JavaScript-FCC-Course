@@ -1,2 +1,2 @@
 # JavaScript-FCC-Course
-JavaScript freeCodeCamp Course files -
+JavaScript freeCodeCamp Course files
